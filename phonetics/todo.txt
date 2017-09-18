@@ -1,0 +1,4 @@
+﻿Add files here that correspond to their IPA sound, if issues occur, write out the name of the symbol
+
+E.g.
+θ.wav, colon.wav, e.wav, thatonesymbol.wav
